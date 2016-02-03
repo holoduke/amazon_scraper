@@ -24,7 +24,7 @@ var user = args[6];
 var pass = args[7];
 var productGroup = args[8] || "A31I45LN3W8UUM";
 
-startData = encodeURIComponent(startDate);
+startDate = encodeURIComponent(startDate);
 endDate = encodeURIComponent(endDate);
 
 console.log("generating ")
@@ -147,9 +147,9 @@ function start(){
 			
 			cookiecustom['session-id'] = sessionid; //ok
 			cookiecustom['ubid-main'] = ubidmain //ok
-			cookiecustom['x-main'] = '"'+xmain+'"';  //ok
+			cookiecustom['x-main'] = xmain;  //ok
 			cookiecustom['at-main'] = atmain; //ok
-			cookiecustom['devportal-session'] = '"'+devportalsession+'"';
+			cookiecustom['devportal-session'] = devportalsession;
 			
 			cookie = "";
 			for (prop in cookiecustom){
