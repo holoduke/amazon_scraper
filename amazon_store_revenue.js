@@ -75,13 +75,14 @@ function parseCSV(cb){
 
 var from = process.argv[2] || date.getInstance().getDate("%Y/%m/%d");
 var to = process.argv[3] || date.getSameDayLastMonth().getDate("%Y/%m/%d");
-var username =process.argv[4] 
-var password =process.argv[5] 
+var reportType =process.argv[4] 
+var username =process.argv[5] 
+var password =process.argv[6] 
 
-console.log("get stats from ",from," - ",to);
+console.log("get stats from ",from," - ",to," type:"+reportType);
 console.log("login with user ",username, password);
 
-var command = "casperjs --ssl-protocol=tlsv1 --ignore-ssl-errors=true  --local-to-remote-url-access=yes --web-security=no --cookies-file=customcookie amazon_get_curl.js "+from+" "+to+" "+username+" "+password;
+var command = "casperjs --ssl-protocol=tlsv1 --ignore-ssl-errors=true  --local-to-remote-url-access=yes --web-security=no --cookies-file=customcookie amazon_get_curl.js "+from+" "+to+" "+reportType+" "+username+" "+password;
 
 dbinstance = null;
 

@@ -20,9 +20,10 @@ casper.userAgent('Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)');
 
 var startDate = args[4] || "2015/01/31";
 var endDate = args[5] || "2015/02/20";
-var user = args[6];
-var pass = args[7];
-var productGroup = args[8] || "A31I45LN3W8UUM";
+var reportType = args[6];
+var user = args[7];
+var pass = args[8];
+var productGroup = args[9] || "A31I45LN3W8UUM";
 
 startDate = encodeURIComponent(startDate);
 endDate = encodeURIComponent(endDate);
@@ -185,7 +186,7 @@ function start(){
 			extraParams.push("--compressed");
 			
 			//var command = "curl 'https://developer.amazon.com/rp/res/sales/csv/inAppSalesDetail.file'";
-			var command = "curl 'https://developer.amazon.com/rp/res/sales/csv/aggregateSalesSummary.file'";
+			var command = "curl 'https://developer.amazon.com/rp/res/sales/csv/"+reportType+".file'";
 			
 			for (var prop in headers){
 				command += " -H '"+prop+": "+headers[prop]+"'";
