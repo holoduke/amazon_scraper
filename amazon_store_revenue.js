@@ -1,4 +1,5 @@
 var sys = require('sys');
+
 var fs = require("fs");
 var exec = require('child_process').exec;
 var date = require('./datetime');
@@ -74,8 +75,8 @@ function parseCSV(cb){
 
 var from = process.argv[2] || date.getInstance().getDate("%Y/%m/%d");
 var to = process.argv[3] || date.getSameDayLastMonth().getDate("%Y/%m/%d");
-var username =process.argv[5] || 'a10amazon@spilgames.com';
-var password =process.argv[6] || 'mgbCzvhX6C56';
+var username =process.argv[4] 
+var password =process.argv[5] 
 
 console.log("get stats from ",from," - ",to);
 console.log("login with user ",username, password);
