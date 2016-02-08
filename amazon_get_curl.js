@@ -184,7 +184,8 @@ function start(){
 			var extraParams = [];
 			extraParams.push("--compressed");
 			
-			var command = "curl 'https://developer.amazon.com/rp/res/sales/csv/inAppSalesDetail.file'";
+			//var command = "curl 'https://developer.amazon.com/rp/res/sales/csv/inAppSalesDetail.file'";
+			var command = "curl 'https://developer.amazon.com/rp/res/sales/csv/aggregateSalesSummary.file'";
 			
 			for (var prop in headers){
 				command += " -H '"+prop+": "+headers[prop]+"'";

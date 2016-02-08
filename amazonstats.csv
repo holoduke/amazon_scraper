@@ -1,0 +1,513 @@
+Amazon Mobile App Distribution
+Aggregate Sales Report
+1/31/2015 - 2/20/2015
+Mobile Apps
+
+Notes
+Units Sold  -  The gross number of units sold.
+Trial Units  -  The total number of free trial sign-ups during the subscription period.
+Paid Units  -   This number includes each transaction related to a paid subscription. for example a monthly subscription will be recorded as a paid unit once each month each time the transaction occurs.
+Gross Revenue  -  This is calculated by multiplying units sold by the customer's price.
+Units Returned   -  These are the total number of units for which amazon refunded the customer's price.
+Refunded Revenue  -  Total amount refunded to customers who returned their purchase.
+
+App Sales Report
+1/31/2015 - 2/20/2015
+Mobile Apps
+
+Summary
+Marketplace,From Date,To Date,Apps,Vendor SKU,Units Sold,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+Amazon.ca,1/31/2015,2/20/2015,Highway Rally,003A10AA,3,0.00,0,0.00,CAD
+Amazon.ca,1/31/2015,2/20/2015,Crash Drive 2,,1,0.00,0,0.00,CAD
+Amazon.cn,1/31/2015,2/20/2015,Crash Drive 2,,1,0.00,0,0.00,CNY
+Amazon.co.jp,1/31/2015,2/20/2015,Minicar Champion : Circuit Race,004A10AA,4,0,0,0,JPY
+Amazon.co.jp,1/31/2015,2/20/2015,Highway Rally,003A10AA,3,0,0,0,JPY
+Amazon.co.jp,1/31/2015,2/20/2015,Crash Drive 2,,2,0,0,0,JPY
+Amazon.co.uk,1/31/2015,2/20/2015,Cowaboom,002A10AA,5,0.00,0,0.00,GBP
+Amazon.co.uk,1/31/2015,2/20/2015,Minicar Champion : Circuit Race,004A10AA,73,0.00,0,0.00,GBP
+Amazon.co.uk,1/31/2015,2/20/2015,Highway Rally,003A10AA,38,0.00,0,0.00,GBP
+Amazon.co.uk,1/31/2015,2/20/2015,Peacekeeper,007A10AA,8,0.00,0,0.00,GBP
+Amazon.co.uk,1/31/2015,2/20/2015,Crash Drive 2,,187,0.00,0,0.00,GBP
+Amazon.com,1/31/2015,2/20/2015,Cowaboom,002A10AA,52,0.00,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Minicar Champion : Circuit Race,004A10AA,269,0.00,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Highway Rally,003A10AA,359,0.00,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Peacekeeper,007A10AA,30,0.00,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,,"5,320",0.00,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Wasabi,008A10AA,4,0.00,0,0.00,USD
+Amazon.com.au,1/31/2015,2/20/2015,Highway Rally,003A10AA,1,0.00,0,0.00,AUD
+Amazon.de,1/31/2015,2/20/2015,Minicar Champion : Circuit Race,004A10AA,8,0.00,0,0.00,EUR
+Amazon.de,1/31/2015,2/20/2015,Highway Rally,003A10AA,43,0.00,0,0.00,EUR
+Amazon.de,1/31/2015,2/20/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,EUR
+Amazon.de,1/31/2015,2/20/2015,Crash Drive 2,,32,0.00,0,0.00,EUR
+Amazon.es,1/31/2015,2/20/2015,Cowaboom,002A10AA,1,0.00,0,0.00,EUR
+Amazon.es,1/31/2015,2/20/2015,Minicar Champion : Circuit Race,004A10AA,6,0.00,0,0.00,EUR
+Amazon.es,1/31/2015,2/20/2015,Highway Rally,003A10AA,2,0.00,0,0.00,EUR
+Amazon.es,1/31/2015,2/20/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.fr,1/31/2015,2/20/2015,Cowaboom,002A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,1/31/2015,2/20/2015,Minicar Champion : Circuit Race,004A10AA,18,0.00,0,0.00,EUR
+Amazon.fr,1/31/2015,2/20/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,1/31/2015,2/20/2015,Crash Drive 2,,27,0.00,0,0.00,EUR
+Amazon.it,1/31/2015,2/20/2015,Cowaboom,002A10AA,2,0.00,0,0.00,EUR
+Amazon.it,1/31/2015,2/20/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,EUR
+Amazon.it,1/31/2015,2/20/2015,Highway Rally,003A10AA,100,0.00,0,0.00,EUR
+Amazon.it,1/31/2015,2/20/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,EUR
+Amazon.it,1/31/2015,2/20/2015,Crash Drive 2,,16,0.00,0,0.00,EUR
+
+Detail
+Marketplace,Date,Apps,Vendor SKU,Units Sold,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+Amazon.ca,2/2/2015,Highway Rally,003A10AA,2,0.00,0,0.00,CAD
+Amazon.ca,2/15/2015,Highway Rally,003A10AA,1,0.00,0,0.00,CAD
+Amazon.ca,2/15/2015,Crash Drive 2,,1,0.00,0,0.00,CAD
+Amazon.cn,2/16/2015,Crash Drive 2,,1,0.00,0,0.00,CNY
+Amazon.co.jp,2/1/2015,Highway Rally,003A10AA,1,0,0,0,JPY
+Amazon.co.jp,2/2/2015,Minicar Champion : Circuit Race,004A10AA,1,0,0,0,JPY
+Amazon.co.jp,2/6/2015,Minicar Champion : Circuit Race,004A10AA,1,0,0,0,JPY
+Amazon.co.jp,2/6/2015,Highway Rally,003A10AA,1,0,0,0,JPY
+Amazon.co.jp,2/8/2015,Minicar Champion : Circuit Race,004A10AA,1,0,0,0,JPY
+Amazon.co.jp,2/8/2015,Crash Drive 2,,1,0,0,0,JPY
+Amazon.co.jp,2/14/2015,Minicar Champion : Circuit Race,004A10AA,1,0,0,0,JPY
+Amazon.co.jp,2/14/2015,Highway Rally,003A10AA,1,0,0,0,JPY
+Amazon.co.jp,2/18/2015,Crash Drive 2,,1,0,0,0,JPY
+Amazon.co.uk,1/31/2015,Minicar Champion : Circuit Race,004A10AA,9,0.00,0,0.00,GBP
+Amazon.co.uk,1/31/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,1/31/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,1/31/2015,Crash Drive 2,,12,0.00,0,0.00,GBP
+Amazon.co.uk,2/1/2015,Cowaboom,002A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/1/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,GBP
+Amazon.co.uk,2/1/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/1/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/1/2015,Crash Drive 2,,13,0.00,0,0.00,GBP
+Amazon.co.uk,2/2/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,GBP
+Amazon.co.uk,2/2/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/2/2015,Crash Drive 2,,6,0.00,0,0.00,GBP
+Amazon.co.uk,2/3/2015,Cowaboom,002A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/3/2015,Minicar Champion : Circuit Race,004A10AA,2,0.00,0,0.00,GBP
+Amazon.co.uk,2/3/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/3/2015,Crash Drive 2,,4,0.00,0,0.00,GBP
+Amazon.co.uk,2/4/2015,Minicar Champion : Circuit Race,004A10AA,2,0.00,0,0.00,GBP
+Amazon.co.uk,2/4/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/4/2015,Crash Drive 2,,8,0.00,0,0.00,GBP
+Amazon.co.uk,2/5/2015,Minicar Champion : Circuit Race,004A10AA,4,0.00,0,0.00,GBP
+Amazon.co.uk,2/5/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/5/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/5/2015,Crash Drive 2,,4,0.00,0,0.00,GBP
+Amazon.co.uk,2/6/2015,Minicar Champion : Circuit Race,004A10AA,2,0.00,0,0.00,GBP
+Amazon.co.uk,2/6/2015,Highway Rally,003A10AA,2,0.00,0,0.00,GBP
+Amazon.co.uk,2/6/2015,Crash Drive 2,,7,0.00,0,0.00,GBP
+Amazon.co.uk,2/7/2015,Minicar Champion : Circuit Race,004A10AA,5,0.00,0,0.00,GBP
+Amazon.co.uk,2/7/2015,Highway Rally,003A10AA,5,0.00,0,0.00,GBP
+Amazon.co.uk,2/7/2015,Crash Drive 2,,8,0.00,0,0.00,GBP
+Amazon.co.uk,2/8/2015,Minicar Champion : Circuit Race,004A10AA,5,0.00,0,0.00,GBP
+Amazon.co.uk,2/8/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/8/2015,Crash Drive 2,,11,0.00,0,0.00,GBP
+Amazon.co.uk,2/9/2015,Cowaboom,002A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/9/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,GBP
+Amazon.co.uk,2/9/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/9/2015,Crash Drive 2,,7,0.00,0,0.00,GBP
+Amazon.co.uk,2/10/2015,Crash Drive 2,,7,0.00,0,0.00,GBP
+Amazon.co.uk,2/11/2015,Cowaboom,002A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/11/2015,Crash Drive 2,,5,0.00,0,0.00,GBP
+Amazon.co.uk,2/12/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,GBP
+Amazon.co.uk,2/12/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/12/2015,Crash Drive 2,,9,0.00,0,0.00,GBP
+Amazon.co.uk,2/13/2015,Minicar Champion : Circuit Race,004A10AA,4,0.00,0,0.00,GBP
+Amazon.co.uk,2/13/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/13/2015,Crash Drive 2,,8,0.00,0,0.00,GBP
+Amazon.co.uk,2/14/2015,Minicar Champion : Circuit Race,004A10AA,2,0.00,0,0.00,GBP
+Amazon.co.uk,2/14/2015,Highway Rally,003A10AA,5,0.00,0,0.00,GBP
+Amazon.co.uk,2/14/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/14/2015,Crash Drive 2,,17,0.00,0,0.00,GBP
+Amazon.co.uk,2/15/2015,Cowaboom,002A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/15/2015,Minicar Champion : Circuit Race,004A10AA,8,0.00,0,0.00,GBP
+Amazon.co.uk,2/15/2015,Highway Rally,003A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/15/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,GBP
+Amazon.co.uk,2/15/2015,Crash Drive 2,,18,0.00,0,0.00,GBP
+Amazon.co.uk,2/16/2015,Minicar Champion : Circuit Race,004A10AA,4,0.00,0,0.00,GBP
+Amazon.co.uk,2/16/2015,Highway Rally,003A10AA,7,0.00,0,0.00,GBP
+Amazon.co.uk,2/16/2015,Crash Drive 2,,9,0.00,0,0.00,GBP
+Amazon.co.uk,2/17/2015,Minicar Champion : Circuit Race,004A10AA,4,0.00,0,0.00,GBP
+Amazon.co.uk,2/17/2015,Highway Rally,003A10AA,2,0.00,0,0.00,GBP
+Amazon.co.uk,2/17/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/17/2015,Crash Drive 2,,8,0.00,0,0.00,GBP
+Amazon.co.uk,2/18/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,GBP
+Amazon.co.uk,2/18/2015,Crash Drive 2,,11,0.00,0,0.00,GBP
+Amazon.co.uk,2/19/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,GBP
+Amazon.co.uk,2/19/2015,Highway Rally,003A10AA,3,0.00,0,0.00,GBP
+Amazon.co.uk,2/19/2015,Crash Drive 2,,7,0.00,0,0.00,GBP
+Amazon.co.uk,2/20/2015,Minicar Champion : Circuit Race,004A10AA,6,0.00,0,0.00,GBP
+Amazon.co.uk,2/20/2015,Highway Rally,003A10AA,4,0.00,0,0.00,GBP
+Amazon.co.uk,2/20/2015,Crash Drive 2,,8,0.00,0,0.00,GBP
+Amazon.com,1/31/2015,Cowaboom,002A10AA,7,0.00,0,0.00,USD
+Amazon.com,1/31/2015,Minicar Champion : Circuit Race,004A10AA,32,0.00,0,0.00,USD
+Amazon.com,1/31/2015,Highway Rally,003A10AA,29,0.00,0,0.00,USD
+Amazon.com,1/31/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,1/31/2015,Crash Drive 2,,276,0.00,0,0.00,USD
+Amazon.com,1/31/2015,Wasabi,008A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/1/2015,Cowaboom,002A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/1/2015,Minicar Champion : Circuit Race,004A10AA,22,0.00,0,0.00,USD
+Amazon.com,2/1/2015,Highway Rally,003A10AA,20,0.00,0,0.00,USD
+Amazon.com,2/1/2015,Crash Drive 2,,294,0.00,0,0.00,USD
+Amazon.com,2/2/2015,Minicar Champion : Circuit Race,004A10AA,9,0.00,0,0.00,USD
+Amazon.com,2/2/2015,Highway Rally,003A10AA,18,0.00,0,0.00,USD
+Amazon.com,2/2/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/2/2015,Crash Drive 2,,206,0.00,0,0.00,USD
+Amazon.com,2/3/2015,Minicar Champion : Circuit Race,004A10AA,6,0.00,0,0.00,USD
+Amazon.com,2/3/2015,Highway Rally,003A10AA,7,0.00,0,0.00,USD
+Amazon.com,2/3/2015,Crash Drive 2,,213,0.00,0,0.00,USD
+Amazon.com,2/4/2015,Cowaboom,002A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/4/2015,Minicar Champion : Circuit Race,004A10AA,14,0.00,0,0.00,USD
+Amazon.com,2/4/2015,Highway Rally,003A10AA,6,0.00,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,,189,0.00,0,0.00,USD
+Amazon.com,2/5/2015,Cowaboom,002A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/5/2015,Minicar Champion : Circuit Race,004A10AA,6,0.00,0,0.00,USD
+Amazon.com,2/5/2015,Highway Rally,003A10AA,8,0.00,0,0.00,USD
+Amazon.com,2/5/2015,Peacekeeper,007A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/5/2015,Crash Drive 2,,176,0.00,0,0.00,USD
+Amazon.com,2/6/2015,Cowaboom,002A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/6/2015,Minicar Champion : Circuit Race,004A10AA,6,0.00,0,0.00,USD
+Amazon.com,2/6/2015,Highway Rally,003A10AA,15,0.00,0,0.00,USD
+Amazon.com,2/6/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/6/2015,Crash Drive 2,,257,0.00,0,0.00,USD
+Amazon.com,2/7/2015,Cowaboom,002A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/7/2015,Minicar Champion : Circuit Race,004A10AA,14,0.00,0,0.00,USD
+Amazon.com,2/7/2015,Highway Rally,003A10AA,24,0.00,0,0.00,USD
+Amazon.com,2/7/2015,Peacekeeper,007A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/7/2015,Crash Drive 2,,284,0.00,0,0.00,USD
+Amazon.com,2/7/2015,Wasabi,008A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/8/2015,Cowaboom,002A10AA,6,0.00,0,0.00,USD
+Amazon.com,2/8/2015,Minicar Champion : Circuit Race,004A10AA,16,0.00,0,0.00,USD
+Amazon.com,2/8/2015,Highway Rally,003A10AA,25,0.00,0,0.00,USD
+Amazon.com,2/8/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/8/2015,Crash Drive 2,,277,0.00,0,0.00,USD
+Amazon.com,2/9/2015,Cowaboom,002A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/9/2015,Minicar Champion : Circuit Race,004A10AA,10,0.00,0,0.00,USD
+Amazon.com,2/9/2015,Highway Rally,003A10AA,14,0.00,0,0.00,USD
+Amazon.com,2/9/2015,Crash Drive 2,,186,0.00,0,0.00,USD
+Amazon.com,2/10/2015,Cowaboom,002A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/10/2015,Minicar Champion : Circuit Race,004A10AA,9,0.00,0,0.00,USD
+Amazon.com,2/10/2015,Highway Rally,003A10AA,7,0.00,0,0.00,USD
+Amazon.com,2/10/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/10/2015,Crash Drive 2,,212,0.00,0,0.00,USD
+Amazon.com,2/11/2015,Cowaboom,002A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/11/2015,Minicar Champion : Circuit Race,004A10AA,13,0.00,0,0.00,USD
+Amazon.com,2/11/2015,Highway Rally,003A10AA,13,0.00,0,0.00,USD
+Amazon.com,2/11/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/11/2015,Crash Drive 2,,223,0.00,0,0.00,USD
+Amazon.com,2/12/2015,Cowaboom,002A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/12/2015,Minicar Champion : Circuit Race,004A10AA,9,0.00,0,0.00,USD
+Amazon.com,2/12/2015,Highway Rally,003A10AA,17,0.00,0,0.00,USD
+Amazon.com,2/12/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/12/2015,Crash Drive 2,,230,0.00,0,0.00,USD
+Amazon.com,2/13/2015,Cowaboom,002A10AA,4,0.00,0,0.00,USD
+Amazon.com,2/13/2015,Minicar Champion : Circuit Race,004A10AA,11,0.00,0,0.00,USD
+Amazon.com,2/13/2015,Highway Rally,003A10AA,18,0.00,0,0.00,USD
+Amazon.com,2/13/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/13/2015,Crash Drive 2,,254,0.00,0,0.00,USD
+Amazon.com,2/14/2015,Cowaboom,002A10AA,4,0.00,0,0.00,USD
+Amazon.com,2/14/2015,Minicar Champion : Circuit Race,004A10AA,18,0.00,0,0.00,USD
+Amazon.com,2/14/2015,Highway Rally,003A10AA,26,0.00,0,0.00,USD
+Amazon.com,2/14/2015,Peacekeeper,007A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,,288,0.00,0,0.00,USD
+Amazon.com,2/15/2015,Cowaboom,002A10AA,4,0.00,0,0.00,USD
+Amazon.com,2/15/2015,Minicar Champion : Circuit Race,004A10AA,14,0.00,0,0.00,USD
+Amazon.com,2/15/2015,Highway Rally,003A10AA,19,0.00,0,0.00,USD
+Amazon.com,2/15/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/15/2015,Crash Drive 2,,312,0.00,0,0.00,USD
+Amazon.com,2/16/2015,Cowaboom,002A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/16/2015,Minicar Champion : Circuit Race,004A10AA,19,0.00,0,0.00,USD
+Amazon.com,2/16/2015,Highway Rally,003A10AA,23,0.00,0,0.00,USD
+Amazon.com,2/16/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/16/2015,Crash Drive 2,,331,0.00,0,0.00,USD
+Amazon.com,2/17/2015,Cowaboom,002A10AA,4,0.00,0,0.00,USD
+Amazon.com,2/17/2015,Minicar Champion : Circuit Race,004A10AA,10,0.00,0,0.00,USD
+Amazon.com,2/17/2015,Highway Rally,003A10AA,14,0.00,0,0.00,USD
+Amazon.com,2/17/2015,Peacekeeper,007A10AA,2,0.00,0,0.00,USD
+Amazon.com,2/17/2015,Crash Drive 2,,280,0.00,0,0.00,USD
+Amazon.com,2/17/2015,Wasabi,008A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/18/2015,Minicar Champion : Circuit Race,004A10AA,10,0.00,0,0.00,USD
+Amazon.com,2/18/2015,Highway Rally,003A10AA,18,0.00,0,0.00,USD
+Amazon.com,2/18/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/18/2015,Crash Drive 2,,269,0.00,0,0.00,USD
+Amazon.com,2/19/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/19/2015,Highway Rally,003A10AA,13,0.00,0,0.00,USD
+Amazon.com,2/19/2015,Crash Drive 2,,280,0.00,0,0.00,USD
+Amazon.com,2/19/2015,Wasabi,008A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/20/2015,Cowaboom,002A10AA,3,0.00,0,0.00,USD
+Amazon.com,2/20/2015,Minicar Champion : Circuit Race,004A10AA,18,0.00,0,0.00,USD
+Amazon.com,2/20/2015,Highway Rally,003A10AA,25,0.00,0,0.00,USD
+Amazon.com,2/20/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,USD
+Amazon.com,2/20/2015,Crash Drive 2,,283,0.00,0,0.00,USD
+Amazon.com.au,2/5/2015,Highway Rally,003A10AA,1,0.00,0,0.00,AUD
+Amazon.de,1/31/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.de,1/31/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/1/2015,Crash Drive 2,,4,0.00,0,0.00,EUR
+Amazon.de,2/2/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/2/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/3/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/3/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/4/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.de,2/5/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/5/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/6/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.de,2/6/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.de,2/7/2015,Minicar Champion : Circuit Race,004A10AA,2,0.00,0,0.00,EUR
+Amazon.de,2/7/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/7/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.de,2/8/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/8/2015,Highway Rally,003A10AA,2,0.00,0,0.00,EUR
+Amazon.de,2/8/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.de,2/9/2015,Highway Rally,003A10AA,5,0.00,0,0.00,EUR
+Amazon.de,2/9/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/10/2015,Highway Rally,003A10AA,2,0.00,0,0.00,EUR
+Amazon.de,2/10/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/11/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/11/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/11/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/12/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.de,2/12/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.de,2/13/2015,Highway Rally,003A10AA,5,0.00,0,0.00,EUR
+Amazon.de,2/13/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/14/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.de,2/14/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/14/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.de,2/15/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/15/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/16/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.de,2/17/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.de,2/18/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/18/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.de,2/18/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.de,2/19/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.de,2/19/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.de,2/20/2015,Minicar Champion : Circuit Race,004A10AA,2,0.00,0,0.00,EUR
+Amazon.de,2/20/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/2/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/2/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/6/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/9/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/10/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/13/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/15/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/15/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.es,2/16/2015,Cowaboom,002A10AA,1,0.00,0,0.00,EUR
+Amazon.es,2/16/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,1/31/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/1/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/1/2015,Crash Drive 2,,4,0.00,0,0.00,EUR
+Amazon.fr,2/3/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.fr,2/4/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,EUR
+Amazon.fr,2/4/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.fr,2/6/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/7/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/7/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.fr,2/8/2015,Minicar Champion : Circuit Race,004A10AA,4,0.00,0,0.00,EUR
+Amazon.fr,2/8/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.fr,2/9/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.fr,2/10/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/10/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.fr,2/11/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/11/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.fr,2/13/2015,Minicar Champion : Circuit Race,004A10AA,3,0.00,0,0.00,EUR
+Amazon.fr,2/14/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.fr,2/15/2015,Cowaboom,002A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/15/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/15/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.fr,2/16/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.fr,2/18/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/18/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.fr,2/18/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.fr,2/19/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.fr,2/20/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.it,1/31/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.it,1/31/2015,Highway Rally,003A10AA,10,0.00,0,0.00,EUR
+Amazon.it,2/1/2015,Highway Rally,003A10AA,10,0.00,0,0.00,EUR
+Amazon.it,2/2/2015,Highway Rally,003A10AA,8,0.00,0,0.00,EUR
+Amazon.it,2/3/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.it,2/4/2015,Cowaboom,002A10AA,1,0.00,0,0.00,EUR
+Amazon.it,2/4/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.it,2/5/2015,Highway Rally,003A10AA,2,0.00,0,0.00,EUR
+Amazon.it,2/6/2015,Highway Rally,003A10AA,4,0.00,0,0.00,EUR
+Amazon.it,2/6/2015,Peacekeeper,007A10AA,1,0.00,0,0.00,EUR
+Amazon.it,2/6/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.it,2/7/2015,Highway Rally,003A10AA,6,0.00,0,0.00,EUR
+Amazon.it,2/7/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.it,2/8/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.it,2/8/2015,Highway Rally,003A10AA,8,0.00,0,0.00,EUR
+Amazon.it,2/8/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.it,2/9/2015,Highway Rally,003A10AA,6,0.00,0,0.00,EUR
+Amazon.it,2/9/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.it,2/10/2015,Highway Rally,003A10AA,6,0.00,0,0.00,EUR
+Amazon.it,2/10/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.it,2/11/2015,Highway Rally,003A10AA,5,0.00,0,0.00,EUR
+Amazon.it,2/12/2015,Highway Rally,003A10AA,4,0.00,0,0.00,EUR
+Amazon.it,2/12/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.it,2/13/2015,Highway Rally,003A10AA,2,0.00,0,0.00,EUR
+Amazon.it,2/13/2015,Crash Drive 2,,2,0.00,0,0.00,EUR
+Amazon.it,2/14/2015,Highway Rally,003A10AA,5,0.00,0,0.00,EUR
+Amazon.it,2/15/2015,Highway Rally,003A10AA,6,0.00,0,0.00,EUR
+Amazon.it,2/15/2015,Crash Drive 2,,3,0.00,0,0.00,EUR
+Amazon.it,2/16/2015,Highway Rally,003A10AA,1,0.00,0,0.00,EUR
+Amazon.it,2/17/2015,Highway Rally,003A10AA,3,0.00,0,0.00,EUR
+Amazon.it,2/17/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.it,2/18/2015,Highway Rally,003A10AA,4,0.00,0,0.00,EUR
+Amazon.it,2/19/2015,Highway Rally,003A10AA,4,0.00,0,0.00,EUR
+Amazon.it,2/19/2015,Crash Drive 2,,1,0.00,0,0.00,EUR
+Amazon.it,2/20/2015,Cowaboom,002A10AA,1,0.00,0,0.00,EUR
+Amazon.it,2/20/2015,Minicar Champion : Circuit Race,004A10AA,1,0.00,0,0.00,EUR
+Amazon.it,2/20/2015,Highway Rally,003A10AA,2,0.00,0,0.00,EUR
+
+In-App Item Sales Report
+1/31/2015 - 2/20/2015
+Mobile Apps
+
+Summary
+Marketplace,From Date,To Date,Apps,Vendor SKU,Units Sold,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+Amazon.co.uk,1/31/2015,2/20/2015,Crash Drive 2,,4,6.16,0,0.00,GBP
+Amazon.com,1/31/2015,2/20/2015,Cowaboom,002A10AA,1,0.99,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,,191,968.09,8,(266.92),USD
+Amazon.de,1/31/2015,2/20/2015,Crash Drive 2,,1,3.03,0,0.00,EUR
+
+Detail
+Marketplace,Date,Apps,Vendor SKU,Units Sold,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+Amazon.co.uk,2/2/2015,Crash Drive 2,,1,2.58,0,0.00,GBP
+Amazon.co.uk,2/7/2015,Crash Drive 2,,1,2.58,0,0.00,GBP
+Amazon.co.uk,2/17/2015,Crash Drive 2,,2,1.00,0,0.00,GBP
+Amazon.com,1/31/2015,Crash Drive 2,,15,46.85,0,0.00,USD
+Amazon.com,2/1/2015,Crash Drive 2,,11,13.89,0,0.00,USD
+Amazon.com,2/2/2015,Crash Drive 2,,8,12.92,0,0.00,USD
+Amazon.com,2/3/2015,Crash Drive 2,,7,24.93,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,,22,233.78,0,0.00,USD
+Amazon.com,2/5/2015,Crash Drive 2,,2,1.98,2,(14.98),USD
+Amazon.com,2/6/2015,Crash Drive 2,,12,15.88,0,0.00,USD
+Amazon.com,2/7/2015,Crash Drive 2,,4,4.96,0,0.00,USD
+Amazon.com,2/8/2015,Crash Drive 2,,5,7.95,0,0.00,USD
+Amazon.com,2/9/2015,Crash Drive 2,,5,17.95,0,0.00,USD
+Amazon.com,2/10/2015,Crash Drive 2,,2,2.98,0,0.00,USD
+Amazon.com,2/11/2015,Cowaboom,002A10AA,1,0.99,0,0.00,USD
+Amazon.com,2/11/2015,Crash Drive 2,,5,9.95,0,0.00,USD
+Amazon.com,2/12/2015,Crash Drive 2,,1,0.99,2,(1.98),USD
+Amazon.com,2/13/2015,Crash Drive 2,,7,14.93,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,,29,169.71,0,0.00,USD
+Amazon.com,2/15/2015,Crash Drive 2,,7,45.93,0,0.00,USD
+Amazon.com,2/16/2015,Crash Drive 2,,11,258.89,4,(249.96),USD
+Amazon.com,2/17/2015,Crash Drive 2,,5,6.95,0,0.00,USD
+Amazon.com,2/18/2015,Crash Drive 2,,17,35.83,0,0.00,USD
+Amazon.com,2/19/2015,Crash Drive 2,,7,13.93,0,0.00,USD
+Amazon.com,2/20/2015,Crash Drive 2,,9,26.91,0,0.00,USD
+Amazon.de,2/1/2015,Crash Drive 2,,1,3.03,0,0.00,EUR
+
+In-App Item Sales Report Itemized
+1/31/2015 - 2/20/2015
+Mobile Apps
+
+Summary
+Marketplace,From Date,To Date,Apps,In-App Item,Vendor SKU,Units Sold,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+Amazon.co.uk,1/31/2015,2/20/2015,Crash Drive 2,Cash Bag,CD2cash3,2,5.16,0,0.00,GBP
+Amazon.co.uk,1/31/2015,2/20/2015,Crash Drive 2,Cash Pile,CD2cash1,2,1.00,0,0.00,GBP
+Amazon.com,1/31/2015,2/20/2015,Cowaboom,Milk Money Pack,milkmoneypack,1,0.99,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Bag,CD2cash3,29,144.71,1,(4.99),USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Boost for a day,CD2boostcashday,4,15.96,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Container,CD2cash7,3,239.97,3,(239.97),USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Briefcase,CD2cash4,8,79.92,2,(19.98),USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Boost for a week,CD2boostcashweek,3,59.97,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Pile,CD2cash1,81,80.19,2,(1.98),USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Stacks,CD2cash2,49,97.51,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Cash Vault,CD2cash5,3,59.97,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Day Bundle,CD2bundleday,9,89.91,0,0.00,USD
+Amazon.com,1/31/2015,2/20/2015,Crash Drive 2,Week Bundle,CD2bundleweek,2,99.98,0,0.00,USD
+Amazon.de,1/31/2015,2/20/2015,Crash Drive 2,Cash Bag,CD2cash3,1,3.03,0,0.00,EUR
+
+Detail
+Marketplace,Date,Apps,In-App Item,Vendor SKU,Units Sold,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+Amazon.co.uk,2/2/2015,Crash Drive 2,Cash Bag,CD2cash3,1,2.58,0,0.00,GBP
+Amazon.co.uk,2/7/2015,Crash Drive 2,Cash Bag,CD2cash3,1,2.58,0,0.00,GBP
+Amazon.co.uk,2/17/2015,Crash Drive 2,Cash Pile,CD2cash1,2,1.00,0,0.00,GBP
+Amazon.com,1/31/2015,Crash Drive 2,Cash Bag,CD2cash3,6,29.94,0,0.00,USD
+Amazon.com,1/31/2015,Crash Drive 2,Cash Pile,CD2cash1,1,0.99,0,0.00,USD
+Amazon.com,1/31/2015,Crash Drive 2,Cash Stacks,CD2cash2,8,15.92,0,0.00,USD
+Amazon.com,2/1/2015,Crash Drive 2,Cash Pile,CD2cash1,8,7.92,0,0.00,USD
+Amazon.com,2/1/2015,Crash Drive 2,Cash Stacks,CD2cash2,3,5.97,0,0.00,USD
+Amazon.com,2/2/2015,Crash Drive 2,Cash Bag,CD2cash3,1,4.99,0,0.00,USD
+Amazon.com,2/2/2015,Crash Drive 2,Cash Pile,CD2cash1,6,5.94,0,0.00,USD
+Amazon.com,2/2/2015,Crash Drive 2,Cash Stacks,CD2cash2,1,1.99,0,0.00,USD
+Amazon.com,2/3/2015,Crash Drive 2,Cash Bag,CD2cash3,2,9.98,0,0.00,USD
+Amazon.com,2/3/2015,Crash Drive 2,Cash Briefcase,CD2cash4,1,9.99,0,0.00,USD
+Amazon.com,2/3/2015,Crash Drive 2,Cash Pile,CD2cash1,3,2.97,0,0.00,USD
+Amazon.com,2/3/2015,Crash Drive 2,Cash Stacks,CD2cash2,1,1.99,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Cash Bag,CD2cash3,4,19.96,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Cash Boost for a day,CD2boostcashday,4,15.96,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Cash Briefcase,CD2cash4,1,9.99,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Cash Boost for a week,CD2boostcashweek,3,59.97,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Cash Pile,CD2cash1,4,3.96,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Cash Stacks,CD2cash2,2,3.98,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Day Bundle,CD2bundleday,2,19.98,0,0.00,USD
+Amazon.com,2/4/2015,Crash Drive 2,Week Bundle,CD2bundleweek,2,99.98,0,0.00,USD
+Amazon.com,2/5/2015,Crash Drive 2,Cash Bag,CD2cash3,0,0.00,1,(4.99),USD
+Amazon.com,2/5/2015,Crash Drive 2,Cash Briefcase,CD2cash4,0,0.00,1,(9.99),USD
+Amazon.com,2/5/2015,Crash Drive 2,Cash Pile,CD2cash1,2,1.98,0,0.00,USD
+Amazon.com,2/6/2015,Crash Drive 2,Cash Pile,CD2cash1,8,7.92,0,0.00,USD
+Amazon.com,2/6/2015,Crash Drive 2,Cash Stacks,CD2cash2,4,7.96,0,0.00,USD
+Amazon.com,2/7/2015,Crash Drive 2,Cash Pile,CD2cash1,3,2.97,0,0.00,USD
+Amazon.com,2/7/2015,Crash Drive 2,Cash Stacks,CD2cash2,1,1.99,0,0.00,USD
+Amazon.com,2/8/2015,Crash Drive 2,Cash Pile,CD2cash1,2,1.98,0,0.00,USD
+Amazon.com,2/8/2015,Crash Drive 2,Cash Stacks,CD2cash2,3,5.97,0,0.00,USD
+Amazon.com,2/9/2015,Crash Drive 2,Cash Bag,CD2cash3,3,14.97,0,0.00,USD
+Amazon.com,2/9/2015,Crash Drive 2,Cash Pile,CD2cash1,1,0.99,0,0.00,USD
+Amazon.com,2/9/2015,Crash Drive 2,Cash Stacks,CD2cash2,1,1.99,0,0.00,USD
+Amazon.com,2/10/2015,Crash Drive 2,Cash Pile,CD2cash1,1,0.99,0,0.00,USD
+Amazon.com,2/10/2015,Crash Drive 2,Cash Stacks,CD2cash2,1,1.99,0,0.00,USD
+Amazon.com,2/11/2015,Cowaboom,Milk Money Pack,milkmoneypack,1,0.99,0,0.00,USD
+Amazon.com,2/11/2015,Crash Drive 2,Cash Bag,CD2cash3,1,4.99,0,0.00,USD
+Amazon.com,2/11/2015,Crash Drive 2,Cash Pile,CD2cash1,3,2.97,0,0.00,USD
+Amazon.com,2/11/2015,Crash Drive 2,Cash Stacks,CD2cash2,1,1.99,0,0.00,USD
+Amazon.com,2/12/2015,Crash Drive 2,Cash Pile,CD2cash1,1,0.99,2,(1.98),USD
+Amazon.com,2/13/2015,Crash Drive 2,Cash Bag,CD2cash3,1,4.99,0,0.00,USD
+Amazon.com,2/13/2015,Crash Drive 2,Cash Pile,CD2cash1,2,1.98,0,0.00,USD
+Amazon.com,2/13/2015,Crash Drive 2,Cash Stacks,CD2cash2,4,7.96,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,Cash Bag,CD2cash3,2,9.98,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,Cash Briefcase,CD2cash4,1,9.99,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,Cash Pile,CD2cash1,12,11.88,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,Cash Stacks,CD2cash2,4,7.96,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,Cash Vault,CD2cash5,3,59.97,0,0.00,USD
+Amazon.com,2/14/2015,Crash Drive 2,Day Bundle,CD2bundleday,7,69.93,0,0.00,USD
+Amazon.com,2/15/2015,Crash Drive 2,Cash Bag,CD2cash3,3,14.97,0,0.00,USD
+Amazon.com,2/15/2015,Crash Drive 2,Cash Briefcase,CD2cash4,3,29.97,0,0.00,USD
+Amazon.com,2/15/2015,Crash Drive 2,Cash Pile,CD2cash1,1,0.99,0,0.00,USD
+Amazon.com,2/16/2015,Crash Drive 2,Cash Container,CD2cash7,3,239.97,3,(239.97),USD
+Amazon.com,2/16/2015,Crash Drive 2,Cash Briefcase,CD2cash4,1,9.99,1,(9.99),USD
+Amazon.com,2/16/2015,Crash Drive 2,Cash Pile,CD2cash1,5,4.95,0,0.00,USD
+Amazon.com,2/16/2015,Crash Drive 2,Cash Stacks,CD2cash2,2,3.98,0,0.00,USD
+Amazon.com,2/17/2015,Crash Drive 2,Cash Pile,CD2cash1,3,2.97,0,0.00,USD
+Amazon.com,2/17/2015,Crash Drive 2,Cash Stacks,CD2cash2,2,3.98,0,0.00,USD
+Amazon.com,2/18/2015,Crash Drive 2,Cash Bag,CD2cash3,4,19.96,0,0.00,USD
+Amazon.com,2/18/2015,Crash Drive 2,Cash Pile,CD2cash1,10,9.90,0,0.00,USD
+Amazon.com,2/18/2015,Crash Drive 2,Cash Stacks,CD2cash2,3,5.97,0,0.00,USD
+Amazon.com,2/19/2015,Crash Drive 2,Cash Bag,CD2cash3,1,4.99,0,0.00,USD
+Amazon.com,2/19/2015,Crash Drive 2,Cash Pile,CD2cash1,3,2.97,0,0.00,USD
+Amazon.com,2/19/2015,Crash Drive 2,Cash Stacks,CD2cash2,3,5.97,0,0.00,USD
+Amazon.com,2/20/2015,Crash Drive 2,Cash Bag,CD2cash3,1,4.99,0,0.00,USD
+Amazon.com,2/20/2015,Crash Drive 2,Cash Briefcase,CD2cash4,1,9.99,0,0.00,USD
+Amazon.com,2/20/2015,Crash Drive 2,Cash Pile,CD2cash1,2,1.98,0,0.00,USD
+Amazon.com,2/20/2015,Crash Drive 2,Cash Stacks,CD2cash2,5,9.95,0,0.00,USD
+Amazon.de,2/1/2015,Crash Drive 2,Cash Bag,CD2cash3,1,3.03,0,0.00,EUR
+
+Subscription Sales Summary Report
+1/31/2015 - 2/20/2015
+Mobile Apps
+
+Summary
+Marketplace,From Date,To Date,Apps,Vendor SKU,Trial Units,Paid Units,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+
+Detail
+Marketplace,Date,Apps,Vendor SKU,Trial Units,Paid Units,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+
+In-App Subscription Sales Report Itemized
+1/31/2015 - 2/20/2015
+Mobile Apps
+
+Summary
+Marketplace,From Date,To Date,Apps,In-App Subscription,Period,Vendor SKU,Trial Units,Paid Units,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+
+Detail
+Marketplace,Date,Apps,In-App Subscription,Period,Vendor SKU,Trial Units,Paid Units,Gross Revenue,Units Returned,Refunded Revenue,Sales Currency Code
+
